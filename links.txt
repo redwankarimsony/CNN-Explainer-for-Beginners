@@ -1,0 +1,7 @@
+1. https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
+2. https://en.wikipedia.org/wiki/Kernel_(image_processing)
+3. https://pillow.readthedocs.io/en/stable/reference/Image.html
+4. https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381
+5. https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/
+
+
